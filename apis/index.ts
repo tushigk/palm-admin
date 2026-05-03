@@ -1,0 +1,12 @@
+export * as authApi from "./auth";
+export * as statsApi from "./stats";
+export * as usersApi from "./users";
+export * as productsApi from "./products";
+export * as ordersApi from "./orders";
+export * as categoriesApi from "./categories";
+export * as bannersApi from "./banners";
+export * as faqsApi from "./faqs";
+export * as contactsApi from "./contacts";
+export * as privacyApi from "./privacy";
+export * as termsApi from "./terms";
+export * as mediaApi from "./media";
